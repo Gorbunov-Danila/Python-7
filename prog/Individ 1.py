@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def main():
     # Ввод списка с клавиатуры
     A = list(map(float, input("Введите 10 чисел через пробел: ").split()))

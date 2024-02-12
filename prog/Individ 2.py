@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def main():
     # Ввод списка с клавиатуры
     float_list = list(map(float, input("Введите вещественные числа через пробел: ").split()))
